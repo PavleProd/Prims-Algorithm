@@ -1,5 +1,7 @@
 # Prims-Algorithm
 Implementation of Prim's algorithm in O(E log V) time complexity.
+E is the number of edges
+V is the number of vertices in a graph
 
 * The code defines a Graph class that represents an undirected weighted graph using
 an adjacency list.
